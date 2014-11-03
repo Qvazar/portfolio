@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Qvazar/portfolio",
+  "description": "Personal portfolio",
+  "authors": [
+    "Sebastian Jørgensen"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "www/lib",
+    "test",
+    "tests"
+  ]
+}
